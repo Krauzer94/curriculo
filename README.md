@@ -115,4 +115,4 @@
 #### :musical_note: ``Experiência musical:`` participação em grupo musical, desempenhando shows para públicos pequenos.
 #### :sos: ``Curso de socorrista:`` curso de capacitação em técnicas de primeiros socorros.
 
-[Retornar ao Topo](#https://github.com/KrauzerPH94/curriculo#pedro-henrique-dorneles-krauzer-da-rosa)
+[Retornar ao Topo](https://github.com/KrauzerPH94/curriculo#pedro-henrique-dorneles-krauzer-da-rosa)
