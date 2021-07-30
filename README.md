@@ -109,6 +109,6 @@
 - Rotinas administrativas e financeiras.
 
 ## ATIVIDADES COMPLEMENTARES
-#### :fleur_de_lis: ``Movimento Escoteiro:`` participação no movimento escoteiro desde 2010 onde desenvolvi muito o trabalho em equipe.
-#### :musical_note: ``Experiência musical:`` participação em grupo musical, desempenhando shows para públicos pequenos no ano de 2012.
-#### :sos: ``Curso de socorrista:`` curso de capacitação em técnicas de primeiros socorros fornecidas na vivência do exército.
+#### :fleur_de_lis: ``Movimento Escoteiro:`` participação no movimento escoteiro desde 2010.
+#### :musical_note: ``Experiência musical:`` participação em grupo musical, desempenhando shows para públicos pequenos.
+#### :sos: ``Curso de socorrista:`` curso de capacitação em técnicas de primeiros socorros.
