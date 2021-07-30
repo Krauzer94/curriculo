@@ -1,7 +1,7 @@
 :warning: [Click here for the english version](https://github.com/KrauzerPH94/curriculo/wiki/Resume) :warning:
 
 # Pedro Henrique Dorneles Krauzer da Rosa
-1. [Informações de Contato](https://github.com/KrauzerPH94/curriculo/blob/main/README.md#informa%C3%A7%C3%B5es-de-contato)
+1. [Informações de Contato](https://github.com/KrauzerPH94/curriculo?fbclid=IwAR2nf9ek4ATU02XdFDgBm9FUmdDXIGAjJOLLoE1x08D6SQkiw5Eq5FVNemQ#informa%C3%A7%C3%B5es-de-contato)
 1. [Objetivo de Carreira](https://github.com/KrauzerPH94/curriculo?fbclid=IwAR2nf9ek4ATU02XdFDgBm9FUmdDXIGAjJOLLoE1x08D6SQkiw5Eq5FVNemQ#objetivo)
 1. [Perfil Pessoal](https://github.com/KrauzerPH94/curriculo?fbclid=IwAR2nf9ek4ATU02XdFDgBm9FUmdDXIGAjJOLLoE1x08D6SQkiw5Eq5FVNemQ#perfil-pessoal)
 1. [Formação Acadêmica](https://github.com/KrauzerPH94/curriculo?fbclid=IwAR2nf9ek4ATU02XdFDgBm9FUmdDXIGAjJOLLoE1x08D6SQkiw5Eq5FVNemQ#forma%C3%A7%C3%A3o)
