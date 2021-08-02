@@ -1,14 +1,14 @@
 :warning: [Click here for the english version](https://github.com/KrauzerPH94/curriculo/wiki/Resume) :warning:
 
 # Pedro Henrique Dorneles Krauzer da Rosa
-1. [Informações de Contato](https://github.com/KrauzerPH94/curriculo?fbclid=IwAR2nf9ek4ATU02XdFDgBm9FUmdDXIGAjJOLLoE1x08D6SQkiw5Eq5FVNemQ#informa%C3%A7%C3%B5es-de-contato)
-1. [Objetivo de Carreira](https://github.com/KrauzerPH94/curriculo?fbclid=IwAR2nf9ek4ATU02XdFDgBm9FUmdDXIGAjJOLLoE1x08D6SQkiw5Eq5FVNemQ#objetivo)
-1. [Perfil Pessoal](https://github.com/KrauzerPH94/curriculo?fbclid=IwAR2nf9ek4ATU02XdFDgBm9FUmdDXIGAjJOLLoE1x08D6SQkiw5Eq5FVNemQ#perfil-pessoal)
-1. [Formação Acadêmica](https://github.com/KrauzerPH94/curriculo?fbclid=IwAR2nf9ek4ATU02XdFDgBm9FUmdDXIGAjJOLLoE1x08D6SQkiw5Eq5FVNemQ#forma%C3%A7%C3%A3o)
-1. [Conhecimento em Idiomas](https://github.com/KrauzerPH94/curriculo?fbclid=IwAR2nf9ek4ATU02XdFDgBm9FUmdDXIGAjJOLLoE1x08D6SQkiw5Eq5FVNemQ#idiomas)
-1. [Habilidades em Informática](https://github.com/KrauzerPH94/curriculo?fbclid=IwAR2nf9ek4ATU02XdFDgBm9FUmdDXIGAjJOLLoE1x08D6SQkiw5Eq5FVNemQ#inform%C3%A1tica)
-1. [Experiências Profissionais](https://github.com/KrauzerPH94/curriculo?fbclid=IwAR2nf9ek4ATU02XdFDgBm9FUmdDXIGAjJOLLoE1x08D6SQkiw5Eq5FVNemQ#heavy_dollar_sign-experi%C3%AAncias-profissionais)
-1. [Atividades Complementares](https://github.com/KrauzerPH94/curriculo?fbclid=IwAR2nf9ek4ATU02XdFDgBm9FUmdDXIGAjJOLLoE1x08D6SQkiw5Eq5FVNemQ#atividades-complementares)
+1. [Informações de Contato](https://github.com/KrauzerPH94/curriculo#informa%C3%A7%C3%B5es-de-contato)
+1. [Objetivo de Carreira](https://github.com/KrauzerPH94/curriculo#objetivo)
+1. [Perfil Pessoal](https://github.com/KrauzerPH94/curriculo#perfil-pessoal)
+1. [Formação Acadêmica](https://github.com/KrauzerPH94/curriculo#forma%C3%A7%C3%A3o)
+1. [Conhecimento em Idiomas](https://github.com/KrauzerPH94/curriculo#idiomas)
+1. [Habilidades em Informática](https://github.com/KrauzerPH94/curriculo#inform%C3%A1tica)
+1. [Experiências Profissionais](https://github.com/KrauzerPH94/curriculo#heavy_dollar_sign-experi%C3%AAncias-profissionais)
+1. [Atividades Complementares](https://github.com/KrauzerPH94/curriculo#atividades-complementares)
 ---
 
 ## Informações de Contato
