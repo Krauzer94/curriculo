@@ -56,12 +56,12 @@
 | Desenvolvimento de Baixo Nível | :heavy_check_mark: |                        |
 
 ## :heavy_dollar_sign: EXPERIÊNCIAS PROFISSIONAIS
-### :office: Setembro/ 2021 – Atualmente – [Leef Tecnologia em Negócios](https://leef.com.br/)
+### :office: Setembro/ 2022 – Atualmente – [Leef Tecnologia em Negócios](https://leef.com.br/)
 :briefcase: ``Função: Suporte Técnico Remoto para Sistemas em Informática``
 #### :pushpin: Atividades:
 - Em progresso, ainda em treinamento;
 
-### :office: Setembro/ 2021 – Atualmente – [Dataweb](https://dataweb.com.br/)
+### :office: Setembro/ 2021 – Setembro/ 2022 – [Dataweb](https://dataweb.com.br/)
 :briefcase: ``Função: Suporte Técnico Remoto para Sistemas em Informática``
 #### :pushpin: Atividades:
 - Instalação, manutenção e atualização do ERP em servidores em estações;
