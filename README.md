@@ -7,7 +7,7 @@
 1. [Formação Acadêmica](https://github.com/KrauzerPH94/curriculo#forma%C3%A7%C3%A3o)
 1. [Conhecimento em Idiomas](https://github.com/KrauzerPH94/curriculo#idiomas)
 1. [Habilidades em Informática](https://github.com/KrauzerPH94/curriculo#inform%C3%A1tica)
-2. [Posição Atual]()
+2. [Posição Atual](https://github.com/KrauzerPH94/curriculo#heavy_dollar_sign-posi%C3%A7%C3%A3o-atual)
 3. [Experiências Profissionais](https://github.com/KrauzerPH94/curriculo#heavy_dollar_sign-experi%C3%AAncias-profissionais)
 4. [Atividades Complementares](https://github.com/KrauzerPH94/curriculo#atividades-complementares)
 ---
