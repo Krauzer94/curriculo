@@ -7,8 +7,9 @@
 1. [Formação Acadêmica](https://github.com/KrauzerPH94/curriculo#forma%C3%A7%C3%A3o)
 1. [Conhecimento em Idiomas](https://github.com/KrauzerPH94/curriculo#idiomas)
 1. [Habilidades em Informática](https://github.com/KrauzerPH94/curriculo#inform%C3%A1tica)
-1. [Experiências Profissionais](https://github.com/KrauzerPH94/curriculo#heavy_dollar_sign-experi%C3%AAncias-profissionais)
-1. [Atividades Complementares](https://github.com/KrauzerPH94/curriculo#atividades-complementares)
+2. [Posição Atual]()
+3. [Experiências Profissionais](https://github.com/KrauzerPH94/curriculo#heavy_dollar_sign-experi%C3%AAncias-profissionais)
+4. [Atividades Complementares](https://github.com/KrauzerPH94/curriculo#atividades-complementares)
 ---
 
 ## Informações de Contato
@@ -54,11 +55,21 @@
 | HTML / CSS || :heavy_check_mark: ||
 | JavaScript | :heavy_check_mark: ||||
 
-## :heavy_dollar_sign: EXPERIÊNCIAS PROFISSIONAIS
-### :office: Setembro/ 2022 – Atualmente – [Leef Tecnologia em Negócios](https://leef.com.br/)
-:briefcase: ``Função: Suporte Técnico Remoto para Sistemas em Informática``
+## :heavy_dollar_sign: POSIÇÃO ATUAL
+### :office: Janeiro/ 2023 – [Sindus ANDRITZ](https://www.andritz.com/pulp-and-paper-en/locations/sindus-ltda-porto-alegre-brazil/sindus-ltda-porto-alegre-brazil)
+:briefcase: ``Posição: Assistente de Aplicação``
 #### :pushpin: Atividades:
-- Em progresso, ainda em treinamento;
+- Ainda em treinamento...
+
+## :heavy_dollar_sign: EXPERIÊNCIAS PROFISSIONAIS
+### :office: Setembro/ 2022 – Janeiro/ 2023 – [Leef Tecnologia em Negócios](https://leef.com.br/)
+:briefcase: ``Posição: Suporte Técnico ao Sistema ERP Protheus``
+#### :pushpin: Atividades:
+- Análise de erros do Protheus;
+- Documentação de procedimentos executados;
+- Acesso em VPN e servidores;
+- Documentação de acessos;
+- Edição de arquivos de configuração.
 
 ### :office: Setembro/ 2021 – Setembro/ 2022 – [Dataweb](https://dataweb.com.br/)
 :briefcase: ``Função: Suporte Técnico Remoto para Sistemas em Informática``
