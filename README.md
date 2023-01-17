@@ -129,7 +129,7 @@
 
 ## ATIVIDADES COMPLEMENTARES
 #### :fleur_de_lis: ``Movimento Escoteiro:`` participação no movimento escoteiro desde 2010.
-#### :musical_note: ``Experiência musical:`` participação em grupo musical, desempenhando shows para públicos pequenos.
+#### :musical_note: ``Experiência musical:`` participação em grupo musical, shows para públicos pequenos.
 #### :sos: ``Curso de socorrista:`` curso de capacitação em técnicas de primeiros socorros.
 
 [Retornar ao Topo](https://github.com/KrauzerPH94/curriculo#pedro-henrique-dorneles-krauzer-da-rosa)
