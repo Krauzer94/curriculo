@@ -1,3 +1,14 @@
+<table border="0">
+ <tr>
+    <td><b style="font-size:30px">Title</b></td>
+    <td><b style="font-size:30px">Title 2</b></td>
+ </tr>
+ <tr>
+    <td>Lorem ipsum ...</td>
+    <td>Lorem ipsum ...</td>
+ </tr>
+</table>
+
 :warning: [Click here for the english version](https://github.com/KrauzerPH94/curriculo/wiki/Resume) :warning:
 
 # Pedro Henrique Dorneles Krauzer da Rosa
