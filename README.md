@@ -21,7 +21,7 @@
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/pedro-krauzer-51103a101/)
 [<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">](https://www.instagram.com/kraauzer/?hl=pt-br)
 [<img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white">](https://www.facebook.com/pedro.krauzer)
-[<img src="https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white">](https://linktr.ee/krauzer)
+[<img src="https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white">](https://linktr.ee/pedrok94)
 
 ## OBJETIVO
 Análise e desenvolvimento de sistemas e aplicativos web e mobile.
@@ -90,34 +90,28 @@ Análise e desenvolvimento de sistemas e aplicativos web e mobile.
         <td> <!-- Básico -->
             <h4>Básico</h4>
             <ul>
-                <li>JavaScript;</li>
-                <li>Programação OOP;</li>
-                <li>Código estruturado;</li>
-                <li>Back-end;</li>
-                <li>Front-end;</li>
-                <li>Mobile.</li>
+                <li>Programação OOP</li>
+                <li>Containers</li>
+                <li>Testing</li>
+                <li>SQL</li>
             </ul>
         </td>
         <td> <!-- Intermediário -->
             <h4>Intermediário</h4>
             <ul>
-                <li>Redes TCP/IP;</li>
-                <li>Edição gráfica;</li>
-                <li>GIMP;</li>
-                <li>Git / GitHub;</li>
-                <li>Banco de dados SQL;</li>
-                <li>HTML / CSS.</li>
+                <li>Programação Funcional</li>
+                <li>UX/UI</li>
+                <li>HTML / CSS / JavaScript</li>
+                <li>Python</li>
             </ul>
         </td>
         <td> <!-- Avançado -->
             <h4>Avançado</h4>
             <ul>
-                <li>Pacote Office;</li>
-                <li>Hardware;</li>
-                <li>IDEs de código;</li>
-                <li>Ativos de rede;</li>
-                <li>Acesso remoto;</li>
-                <li>Documentação.</li>
+                <li>Versionamento</li>
+                <li>Linux</li>
+                <li>Documentação</li>
+                <li>Organização</li>
             </ul>
         </td>
     </tr>
@@ -153,11 +147,11 @@ Análise e desenvolvimento de sistemas e aplicativos web e mobile.
                 <b>📌 Atividades:</b>
             </p>
             <ol>
-                <li>Análise de erros do Protheus;</li>
-                <li>Documentação de procedimentos;</li>
-                <li>Acesso em VPN e servidores;</li>
-                <li>Documentação de acessos;</li>
-                <li>Aplicação de patchs de correção;</li>
+                <li>Análise de erros do Protheus</li>
+                <li>Documentação de procedimentos</li>
+                <li>Acesso em VPN e servidores</li>
+                <li>Documentação de acessos</li>
+                <li>Aplicação de patchs de correção</li>
                 <li>Edição de arquivos de configuração.</li>
             </ol>
         </td>
@@ -169,10 +163,10 @@ Análise e desenvolvimento de sistemas e aplicativos web e mobile.
                 <b>📌 Atividades:</b>
             </p>
             <ol>
-                <li>Instalação e manutenção do ERP;</li>
-                <li>Manipulação de chaves em DBs;</li>
-                <li>Acesso remoto, chamados, e-mails;</li>
-                <li>Testes de software;</li>
+                <li>Instalação e manutenção do ERP</li>
+                <li>Manipulação de chaves em DBs</li>
+                <li>Acesso remoto, chamados, e-mails</li>
+                <li>Testes de software</li>
                 <li>Atualização do changelog.</li>
             </ol>
         </td>
@@ -187,12 +181,12 @@ Análise e desenvolvimento de sistemas e aplicativos web e mobile.
                 <b>📌 Atividades:</b>
             </p>
             <ol>
-                <li>Suporte via e-mail, ligação e chatbot;</li>
-                <li>Plataforma JIRA para tickets;</li>
-                <li>Coleta de evidências técnicas;</li>
-                <li>Acessos em Telnet, SSH, e FTP;</li>
-                <li>Provisionamento de ONUs Huawei;</li>
-                <li>Gerenciamento de central digital iPBX;</li>
+                <li>Suporte via e-mail, ligação e chatbot</li>
+                <li>Plataforma JIRA para tickets</li>
+                <li>Coleta de evidências técnicas</li>
+                <li>Acessos em Telnet, SSH, e FTP</li>
+                <li>Provisionamento de ONUs Huawei</li>
+                <li>Gerenciamento de central digital iPBX</li>
                 <li>Plataforma WinSCP, WinBox e PuTTy.</li>
             </ol>
         </td>
@@ -204,13 +198,13 @@ Análise e desenvolvimento de sistemas e aplicativos web e mobile.
                 <b>📌 Atividades:</b>
             </p>
             <ol>
-                <li>Suporte via e-mail, ligação e chat bot;</li>
-                <li>Plataforma JIRA para tickets;</li>
-                <li>Coleta de evidências técnicas;</li>
-                <li>Acesso remoto em ONUs;</li>
-                <li>Acessos em Telnet via Putty;</li>
-                <li>Acesso em Telnet com scripts em OLTs;</li>
-                <li>Gerenciamento de ONUs Huawei;</li>
+                <li>Suporte via e-mail, ligação e chat bot</li>
+                <li>Plataforma JIRA para tickets</li>
+                <li>Coleta de evidências técnicas</li>
+                <li>Acesso remoto em ONUs</li>
+                <li>Acessos em Telnet via Putty</li>
+                <li>Acesso em Telnet com scripts em OLTs</li>
+                <li>Gerenciamento de ONUs Huawei</li>
                 <li>Gerenciamento de central digital iPBX.</li>
             </ol>
             </p>
@@ -226,12 +220,12 @@ Análise e desenvolvimento de sistemas e aplicativos web e mobile.
                 <b>📌 Atividades:</b>
             </p>
             <ol>
-                <li>Suporte via ligação e chamados;</li>
-                <li>Suporte com acesso remoto;</li>
-                <li>Resets de senhas no Active Directory;</li>
-                <li>Acessos para pastas de rede;</li>
-                <li>Criação de cadastros de usuários;</li>
-                <li>Demandas via memorando e e-mail;</li>
+                <li>Suporte via ligação e chamados</li>
+                <li>Suporte com acesso remoto</li>
+                <li>Resets de senhas no Active Directory</li>
+                <li>Acessos para pastas de rede</li>
+                <li>Criação de cadastros de usuários</li>
+                <li>Demandas via memorando e e-mail</li>
                 <li>Treinamento de estagiários N1.</li>
             </ol>
         </td>
@@ -243,10 +237,10 @@ Análise e desenvolvimento de sistemas e aplicativos web e mobile.
                 <b>📌 Atividades:</b>
             </p>
             <ol>
-                <li>Compra de material de escritório;</li>
-                <li>Controle de estoque do almoxarifado;</li>
-                <li>Cotação com diversos fornecedores;</li>
-                <li>Atividade externa em geral;</li>
+                <li>Compra de material de escritório</li>
+                <li>Controle de estoque do almoxarifado</li>
+                <li>Cotação com diversos fornecedores</li>
+                <li>Atividade externa em geral</li>
                 <li>.Distribuição de material aos setores</li>
             </ol>
         </td>
@@ -261,11 +255,11 @@ Análise e desenvolvimento de sistemas e aplicativos web e mobile.
                 <b>📌 Atividades:</b>
             </p>
             <ol>
-                <li>Serviço de sentinela e segurança;</li>
-                <li>Experiência em almoxarifado;</li>
-                <li>Organização de estoque;</li>
-                <li>Prevenção e combate a incêndio;</li>
-                <li>Treinamento físico diário;</li>
+                <li>Serviço de sentinela e segurança</li>
+                <li>Experiência em almoxarifado</li>
+                <li>Organização de estoque</li>
+                <li>Prevenção e combate a incêndio</li>
+                <li>Treinamento físico diário</li>
                 <li>Cumprimento de missões.</li>
             </ol>
         </td>
@@ -277,9 +271,9 @@ Análise e desenvolvimento de sistemas e aplicativos web e mobile.
                 <b>📌 Atividades:</b>
             </p>
             <ol>
-                <li>Transporte de documentação;</li>
-                <li>Digitalização de arquivos financeiros;</li>
-                <li>Organização de recibos de pagamentos;</li>
+                <li>Transporte de documentação</li>
+                <li>Digitalização de arquivos financeiros</li>
+                <li>Organização de recibos de pagamentos</li>
                 <li>Rotinas administrativas e financeiras.</li>
             </ol>
         </td>
