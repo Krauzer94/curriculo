@@ -119,23 +119,13 @@ Análise e desenvolvimento de sistemas e aplicativos web e mobile.
 
 ## :heavy_dollar_sign: POSIÇÃO ATUAL
 
-<table>
-    <tr>
-        <td> <!-- Sindus ANDRITZ -->
-            <h4>🏢 <a href="https://www.andritz.com/group-en">Sindus ANDRITZ</a></h4>
-            <p>
-                <b>💼 Posição:</b> Assistente de Aplicação<br>
-                <b>⏳ Período:</b> Dez/2022 - Atualmente<br><br>
-                <b>📌 Atividades:</b>
-            </p>
-            <ol>
-                <p>
-                    Desenolvimento de bibliotecas de imagens, implementação de apps da suite da empresa, prototipação de novos aplicativos para a suite, código Python focado em Datascience e afins. código HTML/CSS focado em design de relatórios, administração de repositórios de versionamento, atendimento presencial em novas implantações
-                </p>
-            </ol>
-        </td>
-    </tr>
-</table>
+#### 🏢 [Sindus ANDRITZ](https://www.andritz.com/group-en)
+
+**💼 Posição:** Assistente de Aplicação  
+**⏳ Período:** Dez/2022 - Atualmente  
+
+#### 📌 Atividades:
+Desenolvimento de bibliotecas de imagens, implementação de apps da suite da empresa, prototipação de novos aplicativos para a suite, código Python focado em Datascience e afins. código HTML/CSS focado em design de relatórios, administração de repositórios de versionamento, atendimento presencial em novas implantações
 
 ## :heavy_dollar_sign: EXPERIÊNCIAS PROFISSIONAIS
 
