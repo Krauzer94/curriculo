@@ -12,7 +12,7 @@
 ---
 
 ## Informações de Contato
-:e-mail: pedrokrauzer@hotmail.com
+:e-mail: pkrauzer94@outlook.com
 
 :telephone_receiver: (51) 99239-2727 - [WhatsApp](https://api.whatsapp.com/send?phone=5551992392727)
 
