@@ -129,7 +129,9 @@ Análise e desenvolvimento de sistemas e aplicativos web e mobile.
                 <b>📌 Atividades:</b>
             </p>
             <ol>
-                <li>Ainda em treinamento...</li>
+                <p>
+                    Desenolvimento de bibliotecas de imagens, implementação de apps da suite da empresa, prototipação de novos aplicativos para a suite, código Python focado em Datascience e afins. código HTML/CSS focado em design de relatórios, administração de repositórios de versionamento, atendimento presencial em novas implantações
+                </p>
             </ol>
         </td>
     </tr>
